@@ -42,6 +42,9 @@ body{
 }
 .card-title{
     text-align: center;
+    border-bottom:1px solid  hsl(0, 0%, 59%);
+    padding-bottom:9px;
+
 
 }
 .stats{
